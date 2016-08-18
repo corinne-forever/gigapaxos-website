@@ -1,0 +1,20 @@
+{
+  "layer1": [
+    {
+      "title": "Getting Started",
+      "url": "/documentation/"
+    },
+    {
+      "title": "Tutorial 1",
+      "url": "/documentation/tutorial-1/"
+    },
+    {
+      "title": "Tutorial 2",
+      "url": "/documentation/tutorial-2/"
+    },
+    {
+      "title": "Javadoc",
+      "external_url": "https://mobilityfirst.github.io/gigapaxos/doc/index.html"
+    }
+  ]
+}

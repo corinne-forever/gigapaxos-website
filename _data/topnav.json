@@ -1,0 +1,17 @@
+{
+  "topnav": [
+    {
+      "title": "Topnav",
+      "items": [
+        {
+          "title": "Documentation",
+          "url": "/documentation/"
+        },
+        {
+          "external_url": "https://github.com/MobilityFirst/gigapaxos",
+          "title": "Github"
+        }
+      ]
+    }
+  ]
+}

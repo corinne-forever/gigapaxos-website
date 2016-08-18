@@ -1,1 +1,1 @@
-# gigapaxos-website
+# Gigapaxos Website
